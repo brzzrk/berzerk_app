@@ -1,0 +1,2 @@
+module BerzerkHelper
+end
